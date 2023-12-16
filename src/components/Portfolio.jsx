@@ -2,7 +2,7 @@ import React from 'react'
 import ProjectCard from '../layouts/ProjectCard'
 import img1 from '../assets/images/shopnow.jpg'
 import img2 from '../assets/images/manage.jpg'
-import img3 from '../assets/images/dealboku.jpg'
+import img3 from '../assets/images/db.jpg'
 import img4 from '../assets/images/instafood.jpg'
 import img5 from '../assets/images/notonlyeggs.jpg'
 
