@@ -23,7 +23,7 @@ const Home = () => {
                         className='text-hover'
                     />
                 </h1>
-                <p className='text-secondaryColor'>I specialize in designing intuitive user interfaces, crafting seamless user experiences, coding
+                <p className='text-secondaryColor'>I specialize in designing smart, intuitive user interfaces, crafting seamless user experiences, coding
                     responsive
                     websites and applications,
                     and optimizing them for users and search engine visibility</p>
